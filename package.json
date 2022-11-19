@@ -1,6 +1,6 @@
 {
   "name": "mobaihehk",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": "dog.js",
   "keywords": [
     "dog"
@@ -13,7 +13,12 @@
   },
   "dependencies": {
     "dgram": "^1.0.1",
-    "node-ssdp": "^4.0.1",
     "os": "^0.1.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
